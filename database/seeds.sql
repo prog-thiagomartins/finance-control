@@ -1,0 +1,2 @@
+-- Este arquivo está vazio intencionalmente para a versão 1.0
+-- Não há dados padrão a serem inseridos
